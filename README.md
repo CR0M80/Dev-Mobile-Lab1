@@ -3,21 +3,8 @@ Application Android minimaliste affichant un message Toast et un compteur intera
 
 ## Démonstration
 
-> **TODO :** Insère ici une vidéo de démonstration.
+> **Video Demonstrative**
 > <video src="./demo.mp4" controls width="400"></video>
-
-## Structure du projet
-
-HelloToast/
-├── app/
-│   └── java/
-│       └── com/example/hellotoast/
-│           └── MainActivity.java       ← Logique principale
-├── res/
-│   └── layout/
-│       └── activity_main.xml          ← Interface utilisateur
-└── README.md
-
 
 ## Interface — `res/layout/activity_main.xml`
 
