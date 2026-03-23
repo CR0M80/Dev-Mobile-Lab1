@@ -4,7 +4,10 @@ Application Android minimaliste affichant un message Toast et un compteur intera
 ## Démonstration
 
 > **Video Demonstrative**
-<video src="demo.mp4" controls width="400"></video>
+> 
+
+https://github.com/user-attachments/assets/8305b6f0-df0f-482b-b718-dc5d7dd542ae
+
 
 ## Interface — `res/layout/activity_main.xml`
 
